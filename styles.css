@@ -1,0 +1,52 @@
+body {
+  border: 1px solid;
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 15px;
+  padding-bottom: 30px;
+  border-radius: 10px;
+}
+
+h1 {
+  color: #1e74ff;
+  line-height: 2cm;
+}
+h2,
+h3 {
+  font-size: 25px;
+}
+h2 {
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Poppins", sans-serif;
+}
+p {
+  text-align: center;
+  font-family: "Roboto Slab", serif;
+}
+.container {
+  background: rgb(232, 238, 144);
+}
+.city-name {
+  margin: 20px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.solid-sun {
+  font-size: 23px;
+}
+.cloud-sun {
+  font-size: 23px;
+}
+.sun-rain {
+  font-size: 23px;
+}
+.solid-cloud {
+  font-size: 23px;
+}
+.fun-sun {
+  font-size: 30px;
+}
